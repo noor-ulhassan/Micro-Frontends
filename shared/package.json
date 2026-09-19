@@ -1,0 +1,8 @@
+{
+    "name":"@microshop/cart-contract",
+    "type":"module",
+    "private":"true",
+    "exports":{
+        ".":"./src/index.ts"
+    }
+}
